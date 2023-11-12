@@ -201,45 +201,9 @@ body {
   justify-content: space-between;
 }
 
-.student-courseid-wrap {
-  margin-top: 10px;
-}
 
-.student-courseid-label {
-  font-size: 2.5rem;
-  color: var(--title-color);
-}
 
-.course_id {
-  margin: 10px 0px 20px;
-  padding: 10px;
-}
 
-.course-submit-btn,
-.campus-submit-btn {
-  display: block;
-  padding: 8px 32px;
-  background-color: transparent;
-  border: 3px solid #d4d4d4;
-  font-size: 1.8rem;
-  color: #d4d4d4;
-}
-
-.course-submit-btn:hover,
-.campus-submit-btn:hover {
-  cursor: pointer;
-  background-color: var(--button-color);
-  transition: all 0.3s ease;
-}
-
-.student-campusid-wrap {
-  margin-top: 10px;
-}
-
-.student-campusid-label {
-  font-size: 2.5rem;
-  color: var(--title-color);
-}
 
 #campus_id {
   margin: 10px 0px 20px;
@@ -267,7 +231,6 @@ th {
 
 /* Positioning the tables at the bottom */
 .table-container {
-  position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
